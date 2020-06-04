@@ -1,0 +1,80 @@
+
+body{background-color: skyblue;
+text-align: center;
+margin: 50px auto 0px;
+width: 600px;}
+.right{
+  width: 100px;
+  position: fixed;
+  right: 250px;
+}
+.left{width: 100px;
+  position: fixed;
+  border-radius: 100%;
+  left: 250px;}
+.name{
+  font-family: cursive;
+  font-size: 50px;
+  margin: 0px;
+}
+.mid{  font-family: sans-serif;
+  font-weight: 500px;
+  margin: 0px;}
+.mine{width: 500px;
+  margin: 10px auto 10px;
+  height: 400px;
+  border-radius: 20px;
+}
+.dd{
+  border-radius: 100%;
+  width: 100px;
+  float: left;
+}
+.def{width: 490px;
+  margin: 20px auto 50px;
+  text-align: left;
+  padding-left: 120px;
+}
+.defd{width: 490px;
+  margin: 20px auto;
+  text-align: left;
+  padding-right: 120px;
+}
+.bunmi{
+  margin: 20px auto;
+  padding-right: 120px;
+  text-align: left;
+}
+.lt{
+  border-radius: 100%;
+  width: 100px;
+  float: right;
+}
+form{
+  margin-bottom: 10px;
+}
+footer{
+  background-color: grey;
+  color: skyblue;
+}
+hr{
+  color: grey;
+  border: dotted;
+  border-bottom: 10px;
+}
+input{border-radius: 5px;
+  font-weight: bold;
+  font-family: palatino;
+}
+a{
+  color: cyan;
+  text-decoration: none;
+  padding: 20px;
+  margin: 20px;
+}
+a:hover{
+  color: white;
+}
+.copy{
+  margin-top: 0;
+}
